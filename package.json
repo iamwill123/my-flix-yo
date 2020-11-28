@@ -1,0 +1,30 @@
+{
+  "name": "myflixyo",
+  "version": "1.0.0",
+  "description": "my flix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamwill123/my-flix-yo.git"
+  },
+  "author": "iamwill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamwill123/my-flix-yo/issues"
+  },
+  "homepage": "https://github.com/iamwill123/my-flix-yo#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "sass": "^1.29.0"
+  }
+}
